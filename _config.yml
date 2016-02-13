@@ -1,0 +1,28 @@
+name: Future Crunch
+favicon: null
+layout_spectrum: 0.15649555320851505
+typography_spectrum: 0.8778752284124494
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.337517608422786
+  lightness: 0.5495687345974147
+  saturation: 0.21398207871243358
+  rhythmicContrast: 0.10012476029805839
+purpose: []
