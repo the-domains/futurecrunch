@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Future Crunch]]></title>
         <description><![CDATA[Future Crunch]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/futurecrunch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 00:37:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 00:46:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/futurecrunch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[11 Reasons Why 2015 Was a Great Year For Humanity ]]></title>
+            <description><![CDATA[<article><h1>11 Reasons Why 2015 Was a Great Year For Humanity </h1><p>We are living through the most astonishing period of human progress in history. And nobody’s telling us about it.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6316318021af2e6e4ad2d8eaa3912c0b8318047f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/futurecrunch/11-reasons-why-2015-was-a-great-year-for-humanity/index.html</link>
+            <guid isPermaLink="false">efa2f646-1573-41b5-aa7f-ce5fe39bafb0</guid>
+            <pubDate>Wed, 24 Feb 2016 00:44:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The media and our politicians know we have an evolutionary hangover called fear]]></title>
             <description><![CDATA[<article><h1>The media and our politicians know we have an evolutionary hangover called fear</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/53e94ab5ce5e29c8591d7d550da6e65bf233f194.jpg"></article>]]></description>
-            <link>undefinede5c3262f-0e4e-4d99-854e-f7e5228b0d9e/index.html</link>
+            <link>https://thegrid.ai/futurecrunch/e5c3262f-0e4e-4d99-854e-f7e5228b0d9e/index.html</link>
             <guid isPermaLink="false">e5c3262f-0e4e-4d99-854e-f7e5228b0d9e</guid>
             <pubDate>Wed, 24 Feb 2016 00:37:16 GMT</pubDate>
         </item>
