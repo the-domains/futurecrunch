@@ -4,8 +4,15 @@
         <description><![CDATA[Future Crunch]]></description>
         <link>https://thegrid.ai/futurecrunch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 07:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 07:16:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/futurecrunch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[CONTACT]]></title>
+            <description><![CDATA[<h1>CONTACT</h1>]]></description>
+            <link>https://thegrid.ai/futurecrunch/contact/index.html</link>
+            <guid isPermaLink="false">f9ebe2ab-acdb-4455-801e-99882a69019b</guid>
+            <pubDate>Tue, 19 Apr 2016 07:16:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Big Data: Separating Hype from Reality]]></title>
             <description><![CDATA[<article><h1>Big Data: Separating Hype from Reality</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/54a9f42043f5daaa9df9995e8c9824102125a6ed.png"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/futurecrunch/about/index.html</link>
             <guid isPermaLink="false">fe6cdcba-f5b8-4908-824c-92dd3fea4960</guid>
             <pubDate>Tue, 19 Apr 2016 07:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CONTACT]]></title>
-            <description><![CDATA[<h1>CONTACT</h1>]]></description>
-            <link>https://thegrid.ai/futurecrunch/contact/index.html</link>
-            <guid isPermaLink="false">f9ebe2ab-acdb-4455-801e-99882a69019b</guid>
-            <pubDate>Tue, 19 Apr 2016 07:01:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
