@@ -7,18 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T07:45:06.782Z'
-dateModified: '2016-04-19T07:44:15.558Z'
-title: ''
-author: []
+datePublished: '2016-04-19T07:47:23.547Z'
+dateModified: '2016-04-19T07:45:14.463Z'
+title: Why Technology Improves Exponentially
+author:
+  - name: Angus Hervey
+    url: www.twitter.com/angushervey
+sourcePath: _posts/2016-04-19-why-technology-improves-exponentially.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-why-technology-improves-exponentially.md
-published: true
 _type: Blurb
 
 ---
