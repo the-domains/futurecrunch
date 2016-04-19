@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T07:23:44.846Z'
-dateModified: '2016-04-19T07:23:40.684Z'
+datePublished: '2016-04-19T07:26:06.982Z'
+dateModified: '2016-04-19T07:24:46.274Z'
 title: 'Big Data: Separating Hype from Reality'
 author: []
+sourcePath: _posts/2016-04-19-big-data-separating-hype-from-reality.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-big-data-separating-hype-from-reality.md
-published: true
-url: big-data-separating-hype-from-reality/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Big Data: Separating Hype from Reality
