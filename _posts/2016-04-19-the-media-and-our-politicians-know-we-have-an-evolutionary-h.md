@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://medium.com/future-crunch/fear-is-an-evolutionary-hangover-and-the-media-and-the-politicians-know-it-e6de6a69f64b#.i46gdua70'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - fear
   - imagined
 description: "Don't let them take advantage of it This is an article about pessimism. More specifically it's about why people feel so negative about a world that by almost all accounts is improving. For the average human being on planet earth today, life is better than it has been at any point in human history."
-datePublished: '2016-04-19T06:34:15.721Z'
-dateModified: '2016-04-19T06:34:08.719Z'
+datePublished: '2016-04-19T06:37:16.085Z'
+dateModified: '2016-04-19T06:37:05.758Z'
 author:
   - name: Angus Hervey
     url: 'https://medium.com/@angushervey'
@@ -50,14 +49,15 @@ app_links:
     namespace: google
     type: android
 title: The media and our politicians know we have an evolutionary hangover called fear - Future Crunch
+sourcePath: _posts/2016-04-19-the-media-and-our-politicians-know-we-have-an-evolutionary-h.md
+published: true
 authors: []
 publisher:
   name: Medium
   domain: medium.com
   url: 'https://medium.com'
   favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-sourcePath: _posts/2016-04-19-the-media-and-our-politicians-know-we-have-an-evolutionary-h.md
-published: true
+url: the-media-and-our-politicians-know-we-have-an-evolutionary-h/index.html
 _type: Article
 _context: 'http://schema.org'
 
