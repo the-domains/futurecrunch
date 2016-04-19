@@ -2,14 +2,14 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: 'https://medium.com/future-crunch/big-data-separating-hype-from-reality-ee6285f8e1d4#.1of1e5m56'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T07:33:44.008Z'
-dateModified: '2016-04-19T07:28:54.432Z'
-title: ' '
+datePublished: '2016-04-19T07:39:26.905Z'
+dateModified: '2016-04-19T07:39:18.393Z'
+title: 'Big Data: Separating Hype from Reality'
 author:
   - name: Angus Hervey
     url: www.twitter.com/angushervey
@@ -21,11 +21,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+_type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/862b1a3a-a0e1-40e0-bdc8-30b4f158dcbc.png)
-
-# 
-
-##
+Big Data: Separating Hype from Reality
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad1f76908dfb0cc407ad11734b7cd8745b3b99b6.png)
