@@ -4,8 +4,15 @@
         <description><![CDATA[Future Crunch]]></description>
         <link>https://thegrid.ai/futurecrunch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 06:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 06:39:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/futurecrunch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT]]></title>
+            <description><![CDATA[<h1>ABOUT</h1>]]></description>
+            <link>https://thegrid.ai/futurecrunch/about/index.html</link>
+            <guid isPermaLink="false">fe6cdcba-f5b8-4908-824c-92dd3fea4960</guid>
+            <pubDate>Tue, 19 Apr 2016 06:39:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Unlocking the Brain with New Stimulation Technologies - Future Crunch]]></title>
             <description><![CDATA[<article><h1>Unlocking the Brain with New Stimulation Technologies - Future Crunch</h1><p>In some of the more obscure corners of the online tech community, you may have heard predictions that the human brain will be able to connect directly to the internet by 2030. Although these predictions still feel a lot like sci-fi, advances in brain related technology have already moved us far closer to that goal than almost anyone realizes.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/083262a0c8815ea8a12b0bd65947fd9ff0e426d8.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/futurecrunch/the-media-and-our-politicians-know-we-have-an-evolutionary-h/index.html</link>
             <guid isPermaLink="false">545c806e-8d22-400c-ba81-59b59390dea3</guid>
             <pubDate>Tue, 19 Apr 2016 06:37:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Big Data: Separating Hype from Reality - Future Crunch]]></title>
-            <description><![CDATA[<article><h1>Big Data: Separating Hype from Reality - Future Crunch</h1><p>One the things I like most about being a part of At Future Crunch our aim is to provide clear, critical and intelligent analysis of big future trends. We like to get behind the buzzwords and try and really understand what it's all about. Yes, we're optimistic, but we're not naive (hence the 'critical' part ).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9c20687d986b7c2fb5a098628f1d1da710cb222c.jpg"></article>]]></description>
-            <link>https://medium.com/future-crunch/big-data-separating-hype-from-reality-ee6285f8e1d4#.oeqztlkh9</link>
-            <guid isPermaLink="false">a84c964c-0aa3-4568-bf7b-79df1a4515df</guid>
-            <pubDate>Tue, 19 Apr 2016 06:29:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
