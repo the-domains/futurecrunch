@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T07:39:26.905Z'
-dateModified: '2016-04-19T07:39:18.393Z'
+datePublished: '2016-04-19T07:40:49.902Z'
+dateModified: '2016-04-19T07:39:59.382Z'
 title: 'Big Data: Separating Hype from Reality'
 author:
   - name: Angus Hervey
