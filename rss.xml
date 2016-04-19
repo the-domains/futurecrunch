@@ -4,8 +4,15 @@
         <description><![CDATA[Future Crunch]]></description>
         <link>https://thegrid.ai/futurecrunch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 07:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2016 07:16:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/futurecrunch/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ABOUT]]></title>
+            <description><![CDATA[<h1>ABOUT</h1>]]></description>
+            <link>https://thegrid.ai/futurecrunch/about/index.html</link>
+            <guid isPermaLink="false">fe6cdcba-f5b8-4908-824c-92dd3fea4960</guid>
+            <pubDate>Tue, 19 Apr 2016 07:16:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CONTACT]]></title>
             <description><![CDATA[<h1>CONTACT</h1>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/futurecrunch/big-data-separating-hype-from-reality/index.html</link>
             <guid isPermaLink="false">9ed115c6-7531-4e81-be0f-fe6b9d075cc1</guid>
             <pubDate>Tue, 19 Apr 2016 07:12:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ABOUT]]></title>
-            <description><![CDATA[<h1>ABOUT</h1>]]></description>
-            <link>https://thegrid.ai/futurecrunch/about/index.html</link>
-            <guid isPermaLink="false">fe6cdcba-f5b8-4908-824c-92dd3fea4960</guid>
-            <pubDate>Tue, 19 Apr 2016 07:01:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
